@@ -1,2 +1,3 @@
 # Camera-Blocker
-Android app that can block access to both the front and back camera. Will work even after closed.
+Android app, can block access to both front and back camera. 
+Ensures that no other application, system or otherwise, can access the cameras.
